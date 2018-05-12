@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31159'
     url: http://www.gutenberg.org/2009/agents/31159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25224#The-Happiness-of-HeavenBy-a-Father-of-the-Society-of-Jesus
 gutenberg_issued: '2008-04-28'
 gutenberg_type: Text
 identifiers:
